@@ -9,14 +9,14 @@ Nhà phát triển ứng dụng iOS độc lập
 
 **Tiếng Việt**
 
-Các ứng dụng được phát triển với mục tiêu mang lại trải nghiệm đơn giản, trực quan và hiệu quả cho người dùng.  
-Danh mục ứng dụng có thể bao gồm nhiều lĩnh vực như tiện ích, giải trí và công cụ hỗ trợ đời sống.
+Các ứng dụng được phát triển với mục tiêu mang lại trải nghiệm đơn giản, trực quan và hiệu quả.  
+Danh mục có thể bao gồm tiện ích, giải trí và các công cụ hỗ trợ đời sống.
 
-Mỗi ứng dụng đều hướng tới:
+Mỗi ứng dụng hướng tới:
 - Giao diện rõ ràng, dễ sử dụng  
 - Hiệu năng ổn định  
 - Trải nghiệm mượt mà  
-- Cập nhật và cải tiến liên tục  
+- Cập nhật và cải tiến thường xuyên  
 
 Danh sách ứng dụng sẽ được cập nhật theo thời gian.
 
@@ -79,10 +79,17 @@ Some applications may include advertisements or offer in-app purchases to suppor
 
 ---
 
-## 📩 Liên hệ | Contact
+## 📩 Hỗ trợ | Support
 
-Email: quangdai.trinh@gmail.com  
-GitHub: https://github.com/daitq2310  
+**Tiếng Việt**
+
+Mỗi ứng dụng có biểu mẫu hỗ trợ riêng được cung cấp trong phần mô tả hoặc trong chính ứng dụng.
+
+---
+
+**English**
+
+Each application provides its own support form, accessible within the app or through its store listing.
 
 ---
 
